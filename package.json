@@ -1,0 +1,24 @@
+{
+  "name": "tasktracker",
+  "version": "1.0.0",
+  "description": "command line task tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erybie222/TaskTracker.git"
+  },
+  "author": "Eryk Bielawski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erybie222/TaskTracker/issues"
+  },
+  "homepage": "https://github.com/erybie222/TaskTracker#readme",
+  "bin": {
+  "task-cli": "index.js"
+},
+"type": "module"
+
+}
